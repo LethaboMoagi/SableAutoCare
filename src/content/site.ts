@@ -15,14 +15,14 @@ export const business = {
   tagline: "Exceptional Care. Delivered to Your Doorstep.",
   // PLACEHOLDER — replace with real details before launch.
   phoneDisplay: "+27 (0)71 755 8999",
-  phoneHref: "tel:+270000000000",
-  whatsappDisplay: "+27 (0)00 000 0000",
+  phoneHref: "tel:+27717558999",
+  whatsappDisplay: "+27 (0)71 755 8999",
   /** International format, digits only, no "+" (e.g. 27821234567). */
-  whatsappNumber: "270000000000",
-  email: "hello@yourdomain.co.za",
+  whatsappNumber: "0717558999",
+  email: "SableAutoCare@gmail.com",
   hours: [
-    { days: "Monday – Friday", time: "08:00 – 17:00" },
-    { days: "Saturday", time: "08:00 – 14:00" },
+    { days: "Monday – Friday", time: "08:00 – 16:00" },
+    { days: "Saturday", time: "08:00 – 13:00" },
     { days: "Sunday & public holidays", time: "By arrangement" },
   ],
   serviceAreas: ["Service area 1", "Service area 2", "Service area 3", "Service area 4"],
@@ -170,8 +170,8 @@ export function formatZAR(amount: number) {
 export const testimonials = [
   {
     quote:
-      "Sample review — replace with a genuine customer testimonial. A short sentence about how convenient it was to have the car washed at home.",
-    name: "Customer name",
+      "Finally, a car wash service that understands convenience and quality! They arrived on time, worked efficiently and left my vehicle spotless. The results speak for themselves. Excellent value for money!",
+    name: "— Kagiso R.",
     detail: "Suburb · Full Car Wash",
   },
   {
