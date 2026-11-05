@@ -14,7 +14,7 @@ export const business = {
   legalName: "SABLE AUTO CARE",
   tagline: "Exceptional Care. Delivered to Your Doorstep.",
   // PLACEHOLDER — replace with real details before launch.
-  phoneDisplay: "+27 (0)00 000 0000",
+  phoneDisplay: "+27 (0)71 755 8999",
   phoneHref: "tel:+270000000000",
   whatsappDisplay: "+27 (0)00 000 0000",
   /** International format, digits only, no "+" (e.g. 27821234567). */
